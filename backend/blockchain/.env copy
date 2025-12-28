@@ -1,0 +1,14 @@
+MONGO_URI=mongodb://127.0.0.1:27017
+PORT=5000
+
+EMAIL_ID=sahildatrange45@gmail.com
+EMAIL_PASS=hpwzcjzxzfnizhpa  <-- not your gmail password
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=sahildatrange45@gmail.com
+SMTP_PASS=hpwzcjzxzfnizhpa
+
+ALCHEMY_RPC_URL=https://polygon-amoy.g.alchemy.com/v2/mqmKsl428FVgjmEWd7OBt
+WALLET_PRIVATE_KEY=faedfde401983c9c3780ac2ac9910fe40216b9ea79c5552cbe4cd6dc94d82720
+CONTRACT_ADDRESS=0x45c57258935b1301E72B0491251748DADbEec723
